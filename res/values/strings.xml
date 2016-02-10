@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Calculateur de Calories</string>
+	<string name="placeholder">TODO</string>
+	<string name="enter_quantity_label">Saisissez une quantité en </string>
+	<string name="aliments_label">Liste des aliments</string>
+	<string name="repas_label">Votre repas</string>
+	<string name="calories_label">Nombre total de calories</string>
+	<string name="calories_counter">0</string>
+	<string name="save_button_label">Enregistrer le repas</string>
+</resources>
